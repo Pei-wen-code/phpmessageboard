@@ -87,7 +87,7 @@
                 <form method="POST" action="handle_add_post.php">
                     <textarea class="form_body_content" rows="5" name="content" placeholder="Leave your message here..."></textarea>
                     <?php if ($username && !hasPermission($user, "create", NULL)) { ?>
-                        <h3>You are unauthrised. Please contact the admin./h3>
+                        <h3>You are unauthrised. Please contact the admin.</h3>
                     <?php } else if ($username) { ?>
                         <input class="form_body_btn"type="submit" value="Submit" />
                     <?php } else {?>
