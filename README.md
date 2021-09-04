@@ -1,5 +1,5 @@
 # PHP message board
-This is a message board where users need to login to leave their message. Normal users can also edit and delete their own messages. Admin user has access to admin area where he or she can manage the permission of each user. For example, if users are assigned to the role "banned" by the admin, they will no longer have access to create new posts. When registering and logging, error messages will show for unable to match the username and password, imcomplete fields and when the username has been registered. 
+This is a message board [website](https://github.com/Pei-wen-code/phpmessageboard) where users need to login to leave their message. Normal users can also edit and delete their own messages. Admin user has access to admin area where he or she can manage the permission of each user. For example, if users are assigned to the role "banned" by the admin, they will no longer have access to create new posts. When registering and logging, error messages will show for unable to match the username and password, imcomplete fields and when the username has been registered. 
 
 <img width="1438" alt="homepage" src="https://user-images.githubusercontent.com/58638019/131913390-27a54617-cccd-497c-a8a0-5554b54ec9d9.png">
 
